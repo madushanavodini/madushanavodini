@@ -6,6 +6,7 @@
 - Python
 - Java
 - SQL
+- R
 - Statistical Analysis
 
 📊 Areas of Interest:
