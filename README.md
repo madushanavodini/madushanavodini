@@ -6,6 +6,7 @@
 - Python
 - Java
 - SQL
+- C++
 - R
 - Statistical Analysis
 
