@@ -76,5 +76,7 @@ Streak
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=madushanavodini&theme=tokyonight&hide_border=true)
 
+![](https://komarev.com/ghpvc/?username=madushanavodini&style=for-the-badge&color=7aa2f7)
+
 📫 Connect with me on LinkedIn
 https://www.linkedin.com/in/madusha-navodini-33653b329/
