@@ -47,9 +47,6 @@
   <!-- IntelliJ IDEA -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40"/>&nbsp;
 
-  <!-- C++ (DevC++ is just an IDE for C++) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>&nbsp;
-
 </p>
 
 ---
