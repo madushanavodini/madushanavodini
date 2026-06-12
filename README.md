@@ -46,6 +46,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>&nbsp;
   <!-- IntelliJ IDEA -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40"/>&nbsp;
+  <!--Draw.io-->
+  <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_9461f02c23e995e5d5e46e2676d110af/draw-io.png" width="60"/>
 
 </p>
 
@@ -56,10 +58,10 @@
 <p align="left">
 
   <!-- SPSS (no official devicon → using clean label style) -->
-  <img src="https://img.shields.io/badge/SPSS-blue?style=for-the-badge"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5V2B7nbN5I-JTTzYl9wLiKsJjJL9Ka7yYuQ&s" width="40"/>
 
   <!-- Minitab -->
-  <img src="https://img.shields.io/badge/Minitab-green?style=for-the-badge"/>
+  <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_d79c09fd9f4f8a0b84e01dca9f9483ed/minitab-statistical-software.png" width="80"/>
 
 </p>
 
