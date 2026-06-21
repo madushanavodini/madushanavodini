@@ -65,14 +65,14 @@
 
 </p>
 
-GitHub stats
+<!-- GitHub stats
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madushanavodini&show_icons=true&theme=tokyonight)
 
 GitHub Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madushanavodini&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madushanavodini&theme=tokyonight)  -->
 
 Streak
 
