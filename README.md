@@ -63,7 +63,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=madushanavodini&style=for-the-badge&color=7aa2f7)
 
 ### 📊 Activity Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=madushanavodini&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=madushanavodini&theme=github-dark&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
