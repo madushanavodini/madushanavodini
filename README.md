@@ -72,7 +72,7 @@
 
 GitHub Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madushanavodini&theme=tokyonight)  -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madushanavodini&layout=compact)
 
 Streak
 
