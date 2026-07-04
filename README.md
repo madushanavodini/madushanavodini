@@ -4,7 +4,9 @@
 
 # Hi, I'm Madusha 👋
 🎓 Undergraduate in Applied Statistics
+
 🌱 Currently learning Statistical Analysis
+
 📊 Areas of Interest:
 - Data Science
 - Statistical Modeling
