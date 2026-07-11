@@ -57,13 +57,9 @@
 ### 💻 Most used Languages
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=madushanavodini&layout=compact)
 
-### 🔥 Streak
-![Streak](https://streak-stats.demolab.com?user=madushanavodini&theme=tokyonight&hide_border=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=madushanavodini&style=for-the-badge&color=7aa2f7)
 
-### 📊 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=madushanavodini&theme=github-dark&hide_border=true)
 
 ---
 
