@@ -54,6 +54,16 @@
  
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=madushanavodini&show_icons=true&theme=tokyonight)
 
+## 🔥 GitHub Streak Stats
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=madushanavodini&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 🚀 Activity Graph
+ 
+ [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=madushanavodini&bg_color=000000&color=58a6ff&line=1f6feb&point=79c0ff&area=true&hide_border=true)](https://github.com/madushanavodini)
+
 ### 💻 Most used Languages
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=madushanavodini&layout=compact)
 
