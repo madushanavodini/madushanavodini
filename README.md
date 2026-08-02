@@ -23,7 +23,8 @@
 </tr>
 </table>
 
-## 🧠 Languages I use
+### 🛠️ Tech Stack
+**Programming Languages**
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -32,7 +33,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## 🛠️ Tools & Software
+**Data & Statistics**
+
+<p align="left">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5V2B7nbN5I-JTTzYl9wLiKsJjJL9Ka7yYuQ&s" width="40"/>
+  <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_d79c09fd9f4f8a0b84e01dca9f9483ed/minitab-statistical-software.png" width="80"/>
+</p>
+
+**Tools & Technologies**
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>&nbsp;
@@ -42,12 +50,7 @@
 
 ---
 
-## 📊 Statistical & Analysis Tools
 
-<p align="left">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5V2B7nbN5I-JTTzYl9wLiKsJjJL9Ka7yYuQ&s" width="40"/>
-  <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_d79c09fd9f4f8a0b84e01dca9f9483ed/minitab-statistical-software.png" width="80"/>
-</p>
 
 ---
 ### 📈 GitHub Stats
