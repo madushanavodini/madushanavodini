@@ -1,24 +1,39 @@
 <table>
 <tr>
-<td width="70%" valign="top">
+<td width="60%" valign="middle">
 
-# Hi, I'm Madusha 👋
-🎓 Undergraduate in Applied Statistics
+<h1>Hi, I'm Madusha 👋</h1>
 
-🌱 Currently learning Statistical Analysis
+<h3>🎓 Applied Statistics Undergraduate</h3>
 
-📊 Areas of Interest:
-- Data Science
-- Statistical Modeling
-- Machine Learning
+<p>
+📊 <b>Data</b> • <b>Statistics</b> • <b>Technology</b>
+</p>
 
-📌 Current Goals:
-- Strengthen programming skills
-- Build data analysis projects
+<p>
+I'm interested in turning data into meaningful insights
+through statistical analysis, programming, and data-driven
+problem solving.
+</p>
+
+<p>
+🔹 Statistical Modeling<br>
+🔹 Data Science & Machine Learning<br>
+🔹 Programming & Software Development
+</p>
+
+<p>
+🌱 <b>Currently learning:</b> Java • SQL • R
+</p>
 
 </td>
-<td width="50%" align="center">
-<img src="https://albertascholarships.ca/scholarship-images/wage-detail-images/360/how-to-become-a-statistician.jpg" width="1000"/>
+
+<td width="40%" align="center">
+
+<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=600&q=80"
+     width="380"
+     alt="Data analytics visualization"/>
+
 </td>
 </tr>
 </table>
