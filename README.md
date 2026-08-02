@@ -38,6 +38,9 @@ problem solving.
 </tr>
 </table>
 
+</br>
+</br>
+
 ## 🛠️ Tech Stack
 
 | 📊 **Data & Statistics** | <img src="https://cdn.simpleicons.org/r" width="35"/><br>R | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5V2B7nbN5I-JTTzYl9wLiKsJjJL9Ka7yYuQ&s%22" width="35"/><br>SPSS | <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_d79c09fd9f4f8a0b84e01dca9f9483ed/minitab-statistical-software.png" width="60"/><br>Minitab | <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Logo.jpg" width="60"/><br>Power BI |
@@ -47,27 +50,62 @@ problem solving.
 | 🔧 **Tools** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/><br>GitHub | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="35"/><br>Postman | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="35"/><br>IntelliJ IDEA | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/><br>VS Code |
 
 ---
-### 📈 GitHub Stats
- 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=madushanavodini&show_icons=true&theme=tokyonight&count_private=true)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<!-- 🔥 GitHub Streak Stats
+</br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=madushanavodini&theme=github-dark-blue&hide_border=true)-->
+### 📊 GitHub Stats
 
-### 💻 Most used Languages
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=madushanavodini&layout=compact&theme=tokyonight&count_private=true)
+<p align="left">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=madushanavodini&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
+</p>
 
-### 👁️ Profile Viewers
-![Profile Views](https://komarev.com/ghpvc/?username=madushanavodini&style=for-the-badge&color=7aa2f7&theme=tokyonight)
+</td>
 
+<td width="50%" valign="top">
 
----
-## 📫 Connect with Me
+</br>
 
+### 💻 Most Used Languages
+
+<p align="right">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=madushanavodini&layout=compact&theme=tokyonight&count_private=true" height="170"/>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="middle">
+
+</br>
+
+### 👁️ Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=madushanavodini&style=for-the-badge&color=7aa2f7&theme=tokyonight" alt="Profile Views"/>
+</p>
+
+</td>
+
+<td width="50%" valign="middle">
+
+</br>
+
+### 📫 Connect with Me
+
+<p align="right">
 <a href="mailto:madushanavodini0924@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
 <a href="https://www.linkedin.com/in/madusha-navodini-33653b329/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+</p>
+
+</td>
+</tr>
+</table>
