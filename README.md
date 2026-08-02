@@ -23,32 +23,16 @@
 </tr>
 </table>
 
-### 🛠️ Tech Stack
-**Programming Languages**
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
-**Data & Statistics**
+|                                                                               📊 **Data & Statistics**                                                                               |                                                        💻 **Programming**                                                        |                                                     🗄️ **Database**                                                     |                                                       🔧 **Tools**                                                      |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
+|                                                                <img src="https://cdn.simpleicons.org/r" width="35"/> R                                                               |              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/> Java              |         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/> MySQL        |       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/> GitHub      |
+|                             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5V2B7nbN5I-JTTzYl9wLiKsJjJL9Ka7yYuQ&s%22" width="35"/> SPSS                             |                                 <img src="https://cdn.simpleicons.org/python" width="35"/> Python                                | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35"/> PostgreSQL |     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="35"/> Postman     |
+| <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_d79c09fd9f4f8a0b84e01dca9f9483ed/minitab-statistical-software.png" width="80"/> Minitab | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35"/> Dev-C++ |                                                                                                                          | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="35"/> IntelliJ IDEA |
+|                                    <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Logo.jpg" width="80"/> Power BI                                   |                                                                                                                                  |                                                                                                                          |      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/> VS Code      |
 
-<p align="left">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5V2B7nbN5I-JTTzYl9wLiKsJjJL9Ka7yYuQ&s" width="40"/>
-  <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_d79c09fd9f4f8a0b84e01dca9f9483ed/minitab-statistical-software.png" width="80"/>
-</p>
-
-**Tools & Technologies**
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40"/>&nbsp;
-  <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_9461f02c23e995e5d5e46e2676d110af/draw-io.png" width="60"/>
-</p>
-
----
 
 
 
