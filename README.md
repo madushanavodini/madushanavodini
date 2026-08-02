@@ -58,12 +58,6 @@ problem solving.
 ### 💻 Most used Languages
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=madushanavodini&layout=compact&theme=tokyonight&count_private=true)
 
-### 🚀 Activity Graph
- 
- [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=madushanavodini&bg_color=000000&color=58a6ff&line=1f6feb&point=79c0ff&area=true&hide_border=true)](https://github.com/madushanavodini)
-
-
-
 ### 👁️ Profile Viewers
 ![Profile Views](https://komarev.com/ghpvc/?username=madushanavodini&style=for-the-badge&color=7aa2f7&theme=tokyonight)
 
